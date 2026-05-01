@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /fencing-quote/
+
+Sitemap: https://fencing-quotes.ca/sitemap-index.xml
